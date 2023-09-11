@@ -3,7 +3,7 @@
 
 **MITBOT** is a simple web-based chatbot application built using HTML, CSS, and JavaScript. It provides an interactive chat interface with an AI-powered response generator. This README will guide you through the setup and customization of the chatbot.
 
-
+https://rumtech07.github.io/MitBot/
 
 ## Features
 
